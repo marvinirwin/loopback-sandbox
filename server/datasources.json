@@ -1,6 +1,10 @@
 {
   "db": {
+    "host": "localhost",
+    "database": "postgres",
+    "password": "mysecretpassword",
     "name": "db",
-    "connector": "memory"
+    "user": "postgres",
+    "connector": "postgresql"
   }
 }

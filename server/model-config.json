@@ -31,5 +31,13 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "test": {
+    "dataSource": "db",
+    "public": true
+  },
+  "testbadsql": {
+    "dataSource": "db",
+    "public": true
   }
 }
